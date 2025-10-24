@@ -6,3 +6,4 @@ Test line in README file
 TODO: document project
 
 Modify locally
+Modify on GitHub
